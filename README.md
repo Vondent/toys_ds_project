@@ -1,3 +1,4 @@
 # toys_ds_project
 
-DSCI 100 Project; Git introduction
+Project creation date:
+05/30/2023
